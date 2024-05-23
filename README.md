@@ -1,3 +1,7 @@
+  ####
+ ![Screenshot 2024-02-23 at 2 34 20 PM](https://github.com/NateNobleza/NateNobleza/assets/154506686/44c7b0ef-1453-46e9-a180-b8d6902c5ca8)
+
+
 #### About me
 - 👋 Hi, I’m @NateNobleza
     Full-Stack Web Developer | JavaScript, TypeScript, HTML, CSS, React, PostgreSQL, Express.js, Node.js
@@ -5,8 +9,7 @@
     Some of my other hobbies include building computers and keyboards (currently have 7 keyboards in rotation)
     That is how my spark for being a software engineer stemmed from, so if you have any similar interest
     lets have a chat!
-  ####
- ![Screenshot 2024-02-23 at 2 34 20 PM](https://github.com/NateNobleza/NateNobleza/assets/154506686/44c7b0ef-1453-46e9-a180-b8d6902c5ca8)
+
 
 
 
