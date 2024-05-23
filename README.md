@@ -11,7 +11,6 @@
 
 #### 
  ![zoom 75 2](https://github.com/NateNobleza/NateNobleza/assets/154506686/fcdb7aeb-bb3d-45ed-ab25-d8c2693d0881)
-####
  ![zoom 75](https://github.com/NateNobleza/NateNobleza/assets/154506686/7d734acc-1b0e-4958-b640-07c6e93882a8)
 
 
