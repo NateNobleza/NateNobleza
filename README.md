@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @NateNobleza
     Full-Stack Web Developer | JavaScript, TypeScript, HTML, CSS, React, PostgreSQL, Express.js, Node.js
     When I'm not doing any code, you can catch me gaming! Currently playing Valorant, CS2, LOL, and TFT
+    Some of my other hobbies include building computers and keyboards (currently have 7 keyboards in rotation)
+    That is how my spark for being a software engineer stemmed from, so if you have any similar interest
+    lets have a chat!
 
 
 
