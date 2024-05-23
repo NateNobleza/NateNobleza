@@ -8,7 +8,9 @@
 
 
 - 📫 How to reach me
+  ####
     Discord - @imnvte
+  ####
     Linkedin - https://www.linkedin.com/in/natenobleza/
 
 - ⚡ Fun fact:
