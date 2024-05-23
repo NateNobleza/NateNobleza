@@ -6,7 +6,8 @@
     That is how my spark for being a software engineer stemmed from, so if you have any similar interest
     lets have a chat!
   ####
-  ![Screenshot 2024-02-23 at 2 34 20 PM](https://github.com/NateNobleza/NateNobleza/assets/154506686/a4228b22-3d4c-4315-9746-8747ae7baf9d)
+  ![Screenshot 2024-02-23 at 2 34 20 PM](https://github.com/NateNobleza/NateNobleza/assets/154506686/e5acb408-a38d-4d1a-b2c0-fd17cdb849d5)
+
 
 
 #### 
