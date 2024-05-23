@@ -29,7 +29,10 @@
 
 #### 
 - ⚡ Fun fact:
-    On my free time I like to game, also like to dabble a little into music, Currently also playing golf (Lets play a round)
+    On my free time I like to game, also like to dabble a little into music, Currently also playing golf (Lets play a round).
+    I also recently got into running and build a full stack application about running!
+    Check it out!
+    http://ec2-3-20-240-151.us-east-2.compute.amazonaws.com/
 
 
 
