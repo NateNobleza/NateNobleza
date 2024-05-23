@@ -10,10 +10,9 @@
 
 
 
-
 #### 
- ![zoom 75 2](https://github.com/NateNobleza/NateNobleza/assets/154506686/fcdb7aeb-bb3d-45ed-ab25-d8c2693d0881)
- ![zoom 75](https://github.com/NateNobleza/NateNobleza/assets/154506686/7d734acc-1b0e-4958-b640-07c6e93882a8)
+![zoom 75](https://github.com/NateNobleza/NateNobleza/assets/154506686/54828842-b7fb-4e6c-ba48-09effece5589)
+![zoom 75 2](https://github.com/NateNobleza/NateNobleza/assets/154506686/d697e425-3cef-45e2-aa54-301410b22e6d)
 
 
 #### Lets Connect
