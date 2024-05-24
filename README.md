@@ -1,4 +1,4 @@
-  #### ![Screenshot 2024-02-23 at 2 34 20 PM](https://github.com/NateNobleza/NateNobleza/assets/154506686/44c7b0ef-1453-46e9-a180-b8d6902c5ca8)
+
 ##
 
 #### About me
@@ -10,7 +10,7 @@ That is how my spark for being a software engineer stemmed from, so if you have 
 lets have a chat!
 
 ##
-
+  #### ![Screenshot 2024-02-23 at 2 34 20 PM](https://github.com/NateNobleza/NateNobleza/assets/154506686/44c7b0ef-1453-46e9-a180-b8d6902c5ca8)
 
 #### 
 ![zoom 75](https://github.com/NateNobleza/NateNobleza/assets/154506686/54828842-b7fb-4e6c-ba48-09effece5589)
