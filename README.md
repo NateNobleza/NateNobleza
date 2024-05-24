@@ -22,11 +22,13 @@ lets have a chat!
 #### Lets Connect
 📫 How to reach me
   ####
-  ![636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB]
+ ![636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB](https://github.com/NateNobleza/NateNobleza/assets/154506686/899e5a8b-4ad9-42a6-adc7-a4356d36727d)
+
 
  - @imnvte
   ####
-  ![LinkedIn_icon svg]
+![LinkedIn_icon svg](https://github.com/NateNobleza/NateNobleza/assets/154506686/fae1bf80-2ae5-4335-831b-a1d0184a98f1)
+
 
 
    - https://www.linkedin.com/in/natenobleza/
