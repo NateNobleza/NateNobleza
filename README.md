@@ -3,12 +3,12 @@
 
 
 #### About me
-- 👋 Hi, I’m @NateNobleza
-    Full-Stack Web Developer | JavaScript, TypeScript, HTML, CSS, React, PostgreSQL, Express.js, Node.js
-    When I'm not doing any code, you can catch me gaming! Currently playing Valorant, CS2, LOL, and TFT
-    Some of my other hobbies include building computers and keyboards (currently have 7 keyboards in rotation)
-    That is how my spark for being a software engineer stemmed from, so if you have any similar interest
-    lets have a chat!
+👋 Hi, I’m @NateNobleza
+Full-Stack Web Developer | JavaScript, TypeScript, HTML, CSS, React, PostgreSQL, Express.js, Node.js
+When I'm not doing any code, you can catch me gaming! Currently playing Valorant, CS2, LOL, and TFT
+Some of my other hobbies include building computers and keyboards (currently have 7 keyboards in rotation)
+That is how my spark for being a software engineer stemmed from, so if you have any similar interest
+lets have a chat!
 
 
 
@@ -20,19 +20,21 @@
 
 
 #### Lets Connect
-- 📫 How to reach me
+📫 How to reach me
   ####
-    Discord - @imnvte
+  ![636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB](https://github.com/NateNobleza/NateNobleza/assets/154506686/6c441cd0-3be7-443f-9d63-eb37e33df46d)
+ - @imnvte
   ####
     Linkedin - https://www.linkedin.com/in/natenobleza/
 
 
 #### 
-- ⚡ Fun fact:
-    On my free time I like to game, also like to dabble a little into music, Currently also playing golf (Lets play a round).
-    I also recently got into running and build a full stack application about running!
-    Check it out!
-    http://ec2-3-20-240-151.us-east-2.compute.amazonaws.com/
+⚡ Fun fact:
+On my free time I like to game, also like to dabble a little into music, Currently also playing golf (Lets play a round).
+I also recently got into running and build a full stack application about running!
+Check it out!
+###
+http://ec2-3-20-240-151.us-east-2.compute.amazonaws.com/
 
 
 
