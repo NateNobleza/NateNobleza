@@ -1,5 +1,4 @@
-  ####
- ![Screenshot 2024-02-23 at 2 34 20 PM](https://github.com/NateNobleza/NateNobleza/assets/154506686/44c7b0ef-1453-46e9-a180-b8d6902c5ca8)
+  #### ![Screenshot 2024-02-23 at 2 34 20 PM](https://github.com/NateNobleza/NateNobleza/assets/154506686/44c7b0ef-1453-46e9-a180-b8d6902c5ca8)
 ##
 
 #### About me
@@ -29,8 +28,7 @@ lets have a chat!
 https://www.linkedin.com/in/natenobleza/
 
 ##
-#### 
-⚡ Fun fact:
+#### ⚡ Fun fact:
 On my free time I like to game, also like to dabble a little into music, Currently also playing golf (Lets play a round).
 I also recently got into running and build a full stack application about running!
 Check it out!
