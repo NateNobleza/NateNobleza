@@ -22,7 +22,7 @@ lets have a chat!
 📫 How to reach me
 ####
 
-![636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB](https://github.com/NateNobleza/NateNobleza/assets/154506686/899e5a8b-4ad9-42a6-adc7-a4356d36727d)
+<a>![636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB](https://github.com/NateNobleza/NateNobleza/assets/154506686/899e5a8b-4ad9-42a6-adc7-a4356d36727d)</a>
 
  @imnvte
  
