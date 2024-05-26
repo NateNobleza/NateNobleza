@@ -25,11 +25,12 @@ lets have a chat!
 
 ![636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB](https://github.com/NateNobleza/NateNobleza/assets/154506686/899e5a8b-4ad9-42a6-adc7-a4356d36727d)
 
-
  @imnvte
  
 ![LinkedIn_icon svg](https://github.com/NateNobleza/NateNobleza/assets/154506686/eb4b56a7-aabf-407d-b37e-a98a030cd70f)
 https://www.linkedin.com/in/natenobleza/
+
+Email - noblezanathan@gmail.com 
 
 ##
 #### ⚡ Fun fact:
@@ -37,7 +38,8 @@ On my free time I like to game, also like to dabble a little into music, Current
 I also recently got into running and build a full stack application about running!
 Check it out!
 ###
-http://ec2-3-20-240-151.us-east-2.compute.amazonaws.com/
+
+Heres the link to my most recent Full-stack: http://ec2-3-20-240-151.us-east-2.compute.amazonaws.com/
 
 
 
