@@ -30,7 +30,8 @@ lets have a chat!
 ![LinkedIn_icon svg](https://github.com/NateNobleza/NateNobleza/assets/154506686/eb4b56a7-aabf-407d-b37e-a98a030cd70f)
 https://www.linkedin.com/in/natenobleza/
 
-Email - noblezanathan@gmail.com 
+### Resume
+- https://flowcv.com/resume/s4339gp2n5
 
 ##
 #### ⚡ Fun fact:
