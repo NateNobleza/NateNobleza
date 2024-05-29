@@ -27,7 +27,8 @@ lets have a chat!
 
  @imnvte
  
-![LinkedIn_icon svg](https://github.com/NateNobleza/NateNobleza/assets/154506686/72b17e2a-ebe0-4c46-8120-a01fcedb6e2c)
+
+![LinkedIn_icon svg](https://github.com/NateNobleza/NateNobleza/assets/154506686/b1a6242d-ed96-4b49-b517-03a469e29d60)
 
 
 https://www.linkedin.com/in/natenobleza/
